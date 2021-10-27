@@ -1,0 +1,74 @@
+*** Lecture 25:
+19
+
+10
+
+10
+100
+200
+45
+1000
+
+10
+100
+200
+1000
+
+10
+200
+45
+1000
+
+10
+200
+45
+1000
+
+*** Lecture 26:
+Lion
+cat
+Dog
+Bird
+
+Lion
+cat
+Dog
+Bird
+Lion
+cat
+Dog
+Bird
+
+section11_L26.Vehicle@65ab7765
+section11_L26.Vehicle@1b28cdfa
+section11_L26.Vehicle@eed1f14
+
+Honda
+accord
+1200
+Toyota
+Camry
+12000
+Jeep
+Wrangler
+25000
+
+Vehicle{make='Honda', model='accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+
+Vehicle{make='Honda', model='accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+
+Vehicle{make='Honda', model='accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+
+Vehicle{make='Honda', model='accord', price=1200, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+Lion
+cat
+Dog
+Bird
