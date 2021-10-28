@@ -150,3 +150,52 @@ true
 
 [Employee{name='Angel', salary=2000, department='Maint'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Peter', salary=4000, department='IT'}]
 [Employee{name='Peter', salary=4000, department='IT'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Angel', salary=2000, department='Maint'}]
+
+*** Lecture #29 log:
+
+Brilliant
+Joy
+Confidence
+Brave
+
+Brave
+Brilliant
+Joy
+Confidence
+
+Short value1 of key Brave
+Short value2 of key Brilliant
+Short value3 of key Joy
+Short value3 of key Confidence
+
+Short value2 of key Brilliant
+Short value3 of key Joy
+Short value3 of key Confidence
+Short value1 of key Brave
+
+Brilliant
+Short value2 of key Brilliant
+Joy
+Short value3 of key Joy
+Confidence
+Short value3 of key Confidence
+Brave
+Short value1 of key Brave
+
+Brave
+Short value1 of key Brave
+Brilliant
+Short value2 of key Brilliant
+Confidence
+Short value3 of key Confidence
+Joy
+Short value3 of key Joy
+
+Brave
+Short value1 of key Brave
+Brilliant
+XXXXXXXXXXXXXX
+Confidence
+Short value3 of key Confidence
+Joy
+Short value3 of key Joy
