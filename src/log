@@ -1,4 +1,4 @@
-*** Lecture 25:
+*** Lecture #25 log:
 19
 
 10
@@ -24,7 +24,7 @@
 45
 1000
 
-*** Lecture 26:
+*** Lecture #26 log:
 Lion
 cat
 Dog
@@ -73,7 +73,7 @@ cat
 Dog
 Bird
 
-*** Lecture 27:
+*** Lecture #27 log:
 67
 43
 12
@@ -130,3 +130,23 @@ Animal{name='Kangaroo', age=24}
 Animal{name='Bird', age=3}
 Animal{name='Cat', age=8}
 
+*** Lecture #28 log:
+
+[12, 43, 15, 67, 43, 10]
+[12, 43, 15, 67, 43]
+[12, 43, 43]
+[]
+
+true
+false
+false
+true
+
+[15, 67, 10, 10, 10, 10]
+
+[10, 12, 15, 43, 67]
+
+[Cloths, Computer, Random, Tooth Brush]
+
+[Employee{name='Angel', salary=2000, department='Maint'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Peter', salary=4000, department='IT'}]
+[Employee{name='Peter', salary=4000, department='IT'}, Employee{name='Mike', salary=3500, department='Accounting'}, Employee{name='Paul', salary=3000, department='Admin'}, Employee{name='Angel', salary=2000, department='Maint'}]
