@@ -421,3 +421,30 @@ ADDED: id: 123 | name:'test_product_123
 PRINTING THE SOLD: id: 5 | name:'test_product_5
 ADDED: id: 124 | name:'test_product_124
 ADDED: id: 125 | name:'test_product_125
+
+*** Section 15, Lecture #39 log:
+
+New Question: 0
+New Question: 1
+ANSWERED Question: 0
+ANSWERED Question: 1
+No Questions to Answer... Waiting for producer to get questions
+New Question: 2
+ANSWERED Question: 2
+No Questions to Answer... Waiting for producer to get questions
+New Question: 3
+New Question: 4
+New Question: 5
+ANSWERED Question: 3
+ANSWERED Question: 4
+ANSWERED Question: 5
+New Question: 6
+New Question: 7
+New Question: 8
+ANSWERED Question: 6
+New Question: 9
+New Question: 10
+New Question: 11
+ANSWERED Question: 7
+New Question: 12
+Questions have piled up.. wait for answer
