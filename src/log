@@ -334,6 +334,7 @@ number: 4 - Thread-0
 number: 4 - Thread-1
 
 *** Section 15, Lecture #37 log:
+
 Thread-1 get value: 2
 Thread-0 get value: 1
 Thread-1 get value: 3
@@ -366,3 +367,57 @@ Thread-1 get value: 12
 Thread-0 get value: 13
 Thread-1 get value: 14
 Thread-0 get value: 15
+
+*** Section 15, Lecture #38 log:
+
+ADDED: id: 120 | name:'test_product_120
+ADDED: id: 121 | name:'test_product_121
+ADDED: id: 122 | name:'test_product_122
+ADDED: id: 123 | name:'test_product_123
+PRINTING THE SOLD: id: 0 | name:'test_product_0
+ADDED: id: 124 | name:'test_product_124
+Exception in thread "Thread-1" java.util.ConcurrentModificationException
+	at java.base/java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013)
+	at java.base/java.util.ArrayList$Itr.next(ArrayList.java:967)
+	at s15_L38.threadInventoryManager.InventoryManager.displaySoldProducts(InventoryManager.java:25)
+	at s15_L38.threadInventoryManager.Application$2.run(Application.java:17)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+ADDED: id: 125 | name:'test_product_125
+ADDED: id: 126 | name:'test_product_126
+ADDED: id: 127 | name:'test_product_127
+
+ADDED: id: 41 | name:'test_product_41
+ADDED: id: 42 | name:'test_product_42
+ADDED: id: 43 | name:'test_product_43
+ADDED: id: 44 | name:'test_product_44
+ADDED: id: 45 | name:'test_product_45
+ADDED: id: 46 | name:'test_product_46
+ADDED: id: 47 | name:'test_product_47
+ADDED: id: 48 | name:'test_product_48
+ADDED: id: 49 | name:'test_product_49
+PRINTING THE SOLD: id: 0 | name:'test_product_0
+PRINTING THE SOLD: id: 1 | name:'test_product_1
+PRINTING THE SOLD: id: 2 | name:'test_product_2
+PRINTING THE SOLD: id: 3 | name:'test_product_3
+PRINTING THE SOLD: id: 4 | name:'test_product_4
+PRINTING THE SOLD: id: 5 | name:'test_product_5
+PRINTING THE SOLD: id: 6 | name:'test_product_6
+PRINTING THE SOLD: id: 7 | name:'test_product_7
+PRINTING THE SOLD: id: 8 | name:'test_product_8
+
+ADDED: id: 116 | name:'test_product_116
+ADDED: id: 117 | name:'test_product_117
+ADDED: id: 118 | name:'test_product_118
+PRINTING THE SOLD: id: 0 | name:'test_product_0
+PRINTING THE SOLD: id: 1 | name:'test_product_1
+ADDED: id: 119 | name:'test_product_119
+PRINTING THE SOLD: id: 2 | name:'test_product_2
+ADDED: id: 120 | name:'test_product_120
+PRINTING THE SOLD: id: 3 | name:'test_product_3
+ADDED: id: 121 | name:'test_product_121
+ADDED: id: 122 | name:'test_product_122
+PRINTING THE SOLD: id: 4 | name:'test_product_4
+ADDED: id: 123 | name:'test_product_123
+PRINTING THE SOLD: id: 5 | name:'test_product_5
+ADDED: id: 124 | name:'test_product_124
+ADDED: id: 125 | name:'test_product_125
