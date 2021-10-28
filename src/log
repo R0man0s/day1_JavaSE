@@ -238,3 +238,97 @@ number: 2
 number: 3
 number: 4
 number: 5
+
+*** Section 15, Lecture #36 log:
+
+Starting Tread 1
+Starting Tread 2
+number: 0
+number: 0
+number: 1
+number: 1
+number: 2
+number: 2
+number: 3
+number: 3
+number: 4
+number: 4
+number: 5
+number: 5
+number: 998
+number: 999
+number: 998
+number: 999
+
+Starting Tread 1
+Starting Tread 2
+number: 0 - Thread-0
+number: 0 - Thread-1
+number: 1 - Thread-0
+number: 2 - Thread-0
+number: 1 - Thread-1
+number: 3 - Thread-0
+number: 2 - Thread-1
+number: 3 - Thread-1
+number: 4 - Thread-0
+number: 4 - Thread-1
+number: 5 - Thread-0
+number: 6 - Thread-0
+number: 5 - Thread-1
+number: 7 - Thread-0
+
+Starting Tread 1
+Starting Tread 2
+number: 0 - Tread - b
+number: 0 - Tread - a
+number: 1 - Tread - b
+number: 1 - Tread - a
+number: 2 - Tread - a
+number: 2 - Tread - b
+number: 3 - Tread - a
+number: 3 - Tread - b
+number: 4 - Tread - a
+number: 4 - Tread - b
+number: 5 - Tread - a
+number: 5 - Tread - b
+number: 6 - Tread - b
+number: 6 - Tread - a
+
+Starting Tread 1
+number: 0 - Tread - A
+number: 1 - Tread - A
+number: 2 - Tread - A
+number: 3 - Tread - A
+number: 4 - Tread - A
+Starting Tread 2
+number: 0 - Tread - B
+number: 1 - Tread - B
+number: 2 - Tread - B
+number: 3 - Tread - B
+number: 4 - Tread - B
+
+Starting Tread 1
+Starting Tread 2
+number: 0 - Tread - A
+number: 0 - Tread - B
+number: 1 - Tread - A
+number: 2 - Tread - A
+number: 1 - Tread - B
+number: 3 - Tread - A
+number: 2 - Tread - B
+number: 3 - Tread - B
+number: 4 - Tread - A
+number: 4 - Tread - B
+
+Starting Tread 1
+Starting Tread 2
+number: 0 - Thread-0
+number: 0 - Thread-1
+number: 1 - Thread-1
+number: 1 - Thread-0
+number: 2 - Thread-1
+number: 2 - Thread-0
+number: 3 - Thread-0
+number: 3 - Thread-1
+number: 4 - Thread-0
+number: 4 - Thread-1
