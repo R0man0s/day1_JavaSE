@@ -332,3 +332,37 @@ number: 3 - Thread-0
 number: 3 - Thread-1
 number: 4 - Thread-0
 number: 4 - Thread-1
+
+*** Section 15, Lecture #37 log:
+Thread-1 get value: 2
+Thread-0 get value: 1
+Thread-1 get value: 3
+Thread-0 get value: 4
+Thread-0 get value: 5
+Thread-1 get value: 6
+Thread-0 get value: 7
+Thread-1 get value: 7
+Thread-0 get value: 8
+Thread-1 get value: 9
+Thread-1 get value: 10
+Thread-0 get value: 11
+Thread-1 get value: 13
+Thread-0 get value: 12
+Thread-1 get value: 14
+Thread-0 get value: 15
+
+Thread-0 get value: 1
+Thread-1 get value: 2
+Thread-0 get value: 3
+Thread-1 get value: 4
+Thread-0 get value: 6
+Thread-1 get value: 5
+Thread-0 get value: 7
+Thread-1 get value: 8
+Thread-0 get value: 9
+Thread-1 get value: 10
+Thread-0 get value: 11
+Thread-1 get value: 12
+Thread-0 get value: 13
+Thread-1 get value: 14
+Thread-0 get value: 15

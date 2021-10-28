@@ -1,4 +1,4 @@
-package s15_L35.threading;
+package s15_L35_36.threading;
 
 public class Application {
     public static void main(String[] args) {
