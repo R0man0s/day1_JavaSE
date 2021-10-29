@@ -466,3 +466,66 @@ ANSWERED QUESTION: 2
 Got new Question: 9
 ANSWERED QUESTION: 3
 Got new Question: 10
+
+*** Section 15, Lecture #41 log:
+
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-1 (DONE) Processing Message = 4
+
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 4
+
+submitted all tasks...
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-1 (DONE) Processing Message = 4
+
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 4
+submitted all tasks...
+
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 4
+
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+Unable to process message 3
+Unable to process message 2
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+submitted all tasks...
+
+pool-1-thread-1[RECEIVED] Message = 2
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-1[RECEIVED] Message = 4
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-1 (DONE) Processing Message = 4
+submitted all tasks...
+
+pool-1-thread-2[RECEIVED] Message = 3
+pool-1-thread-1[RECEIVED] Message = 2
+submitted all tasks...
+pool-1-thread-2 (DONE) Processing Message = 3
+pool-1-thread-2[RECEIVED] Message = 4
+pool-1-thread-1 (DONE) Processing Message = 2
+pool-1-thread-2 (DONE) Processing Message = 4
