@@ -529,3 +529,67 @@ pool-1-thread-2 (DONE) Processing Message = 3
 pool-1-thread-2[RECEIVED] Message = 4
 pool-1-thread-1 (DONE) Processing Message = 2
 pool-1-thread-2 (DONE) Processing Message = 4
+
+*** Section 18, video #57 log:
+Human Walking
+Robot Walking
+
+Human Walking
+Robot Walking
+
+Custom object walking...
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+
+*** Section 18, video #58 log:
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+10
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+hello there
+10
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+hello there
+10
+2
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+hello there
+10
+2
+elciheV
+
+Custom object walking...
+Custom object walking...
+the object tripped...
+hello there
+10
+2
+elciheV
+3628800
+
+*** Section 18, video #59 log:
+
+Printing cars between price 18000 and 22000
+Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
+Printing cars that are blue
+Car{make='Honda', model='Civic', color='Blue', price=17700}
+Car{make='Toyota', model='Camry', color='Blue', price=24000}
+
+Printing cars between price 18000 and 22000
+Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
+Printing blue cars
+Car{make='Honda', model='Civic', color='Blue', price=17700}
+Car{make='Toyota', model='Camry', color='Blue', price=24000}
