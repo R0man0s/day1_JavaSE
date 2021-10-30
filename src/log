@@ -593,3 +593,11 @@ Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
 Printing blue cars
 Car{make='Honda', model='Civic', color='Blue', price=17700}
 Car{make='Toyota', model='Camry', color='Blue', price=24000}
+
+price = 22300color = Red
+
+*** Section 18, video #60 log:
+123456789
+6789
+10
+Africa

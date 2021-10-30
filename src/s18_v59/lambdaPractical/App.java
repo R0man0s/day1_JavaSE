@@ -2,6 +2,7 @@ package s18_v59.lambdaPractical;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Function;
 import java.util.function.Predicate;
 
 public class App {
@@ -17,14 +18,18 @@ public class App {
                 new Car("Jeep", "Wrangler", "Red", 24500)
         );
 
+        Function<Car, String> priceAndColor = (c) -> "price = " + c.getPrice() + "color = " + c.getColor();
+        String stringCar = priceAndColor.apply(cars.get(0));
+        System.out.println(stringCar);
+
 //        printCarsPriceRange(cars, 18000, 22000);
 //        printCarByColor(cars, "Red");
 
-        System.out.println("Printing cars between price 18000 and 22000");
-        printCars(cars, (c)-> c.getPrice() >= 18000 && c.getPrice() <= 22000);
-
-        System.out.println("Printing blue cars");
-        printCars(cars, (c)-> c.getColor().equals("Blue"));
+//        System.out.println("Printing cars between price 18000 and 22000");
+//        printCars(cars, (c)-> c.getPrice() >= 18000 && c.getPrice() <= 22000);
+//
+//        System.out.println("Printing blue cars");
+//        printCars(cars, (c)-> c.getColor().equals("Blue"));
 
     }
 
