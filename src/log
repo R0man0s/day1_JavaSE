@@ -601,3 +601,202 @@ price = 22300color = Red
 6789
 10
 Africa
+
+tent, toothpaste, toy,
+44.0
+
+car, computer,
+
+Bitcoin, Computer Application, Dry Cleaner, Education, Health Insurance, Keyboard, Powerade, Samantha, White Board,
+
+Samantha, Health Insurance,
+
+3 good rows.
+
+APPL 145 422
+AMZN 690 849
+
+*** Section 10, video #115 log:
+2021-10-31
+20:02:39.621393800
+2021-10-31T20:02:39.621393800
+
+2021-10-31
+20:07:42.278515
+2021-10-31T20:07:42.278515
+2017-01-01
+10:30
+2017-01-01T10:30
+
+2021-10-31
+20:41:55.111656300
+2021-10-31T20:41:55.111656300
+2017-01-01
+10:30
+2017-01-01T10:30
+Sun Oct 31 20:41:55 EET 2021
+Thu Jan 01 20:41:55 EET 2015
+
+*** Section 10, video #116 log:
+
+2030-01-10
+2030-03-15
+10:30
+12:50
+2030-03-15T12:50
+2030-03-24T02:50
+
+Mon Mar 01 21:04:57 EET 2021
+
+2010-04-01
+
+*** Section 10, video #117 log:
+
+Need to clean the cage= 2017-01-01
+Need to clean the cage= 2017-02-01
+Need to clean the cage= 2017-03-01
+Need to clean the cage= 2017-04-01
+2017-01-08
+2021-11-07T21:30:02.477991800
+Exception in thread "main" java.time.temporal.UnsupportedTemporalTypeException: Unsupported unit: Days
+	at java.base/java.time.LocalTime.plus(LocalTime.java:1079)
+	at java.base/java.time.LocalTime.plus(LocalTime.java:125)
+	at java.base/java.time.Period.addTo(Period.java:909)
+	at java.base/java.time.LocalTime.plus(LocalTime.java:1012)
+	at s10_v117.period.UsingPeriod.main(UsingPeriod.java:18)
+
+P1M
+
+P1Y1M
+
+Need to clean the cage= 2017-01-01
+Need to clean the cage= 2017-01-08
+Need to clean the cage= 2017-01-15
+Need to clean the cage= 2017-01-22
+Need to clean the cage= 2017-01-29
+Need to clean the cage= 2017-02-05
+Need to clean the cage= 2017-02-12
+Need to clean the cage= 2017-02-19
+Need to clean the cage= 2017-02-26
+Need to clean the cage= 2017-03-05
+Need to clean the cage= 2017-03-12
+Need to clean the cage= 2017-03-19
+Need to clean the cage= 2017-03-26
+Need to clean the cage= 2017-04-02
+Need to clean the cage= 2017-04-09
+Need to clean the cage= 2017-04-16
+Need to clean the cage= 2017-04-23
+2017-01-08
+2021-11-07T21:39:28.717353100
+P1Y1M
+
+Need to clean the cage= 2017-01-01
+Need to clean the cage= 2017-03-01
+2017-03-01
+2021-12-31T21:41:19.018510
+P1Y1M
+
+Need to clean the cage= 2017-01-01
+Need to clean the cage= 2017-01-16
+Need to clean the cage= 2017-01-31
+Need to clean the cage= 2017-02-15
+Need to clean the cage= 2017-03-02
+Need to clean the cage= 2017-03-17
+Need to clean the cage= 2017-04-01
+Need to clean the cage= 2017-04-16
+2017-01-16
+2021-11-15T21:43:55.013014500
+P1Y1M
+
+Need to clean the cage= 2017-01-01
+Need to clean the cage= 2017-01-15
+Need to clean the cage= 2017-01-29
+Need to clean the cage= 2017-02-12
+Need to clean the cage= 2017-02-26
+Need to clean the cage= 2017-03-12
+Need to clean the cage= 2017-03-26
+Need to clean the cage= 2017-04-09
+Need to clean the cage= 2017-04-23
+2017-01-15
+2021-11-14T21:44:42.113830300
+P1Y1M
+
+*** Section 10, video #118 log:
+
+2010-04-15
+2010-04-15T11:22:33
+11:22:33
+
+2010-04-15
+2010-04-15T11:22:33
+11:22:33
+4/15/10
+Apr 15, 2010
+Exception in thread "main" java.time.temporal.UnsupportedTemporalTypeException: Unsupported field: MonthOfYear
+	at java.base/java.time.LocalTime.get0(LocalTime.java:703)
+	at java.base/java.time.LocalTime.getLong(LocalTime.java:680)
+	at java.base/java.time.format.DateTimePrintContext$1.getLong(DateTimePrintContext.java:205)
+	at java.base/java.time.format.DateTimePrintContext.getValue(DateTimePrintContext.java:308)
+	at java.base/java.time.format.DateTimeFormatterBuilder$NumberPrinterParser.format(DateTimeFormatterBuilder.java:2763)
+	at java.base/java.time.format.DateTimeFormatterBuilder$CompositePrinterParser.format(DateTimeFormatterBuilder.java:2402)
+	at java.base/java.time.format.DateTimeFormatterBuilder$LocalizedPrinterParser.format(DateTimeFormatterBuilder.java:4844)
+	at java.base/java.time.format.DateTimeFormatterBuilder$CompositePrinterParser.format(DateTimeFormatterBuilder.java:2402)
+	at java.base/java.time.format.DateTimeFormatter.formatTo(DateTimeFormatter.java:1849)
+	at java.base/java.time.format.DateTimeFormatter.format(DateTimeFormatter.java:1823)
+	at s10_v118.formattingDT.FormattingDateTime.main(FormattingDateTime.java:25)
+
+April 15, 2010, 11:22
+
+Apr 15, 2010, 11:22
+
+04 15, 2010, 11:22
+4 15, 2010, 11:22
+
+10:13
+
+2010-04-15
+2010-04-15T11:22:33
+11:22:33
+4/15/10
+Apr 15, 2010
+4 15, 2010, 11:22
+10:16
+11:22
+Exception in thread "main" java.time.temporal.UnsupportedTemporalTypeException: Unsupported field: ClockHourOfAmPm
+	at java.base/java.time.LocalDate.get0(LocalDate.java:710)
+	at java.base/java.time.LocalDate.getLong(LocalDate.java:689)
+	at java.base/java.time.format.DateTimePrintContext.getValue(DateTimePrintContext.java:308)
+	at java.base/java.time.format.DateTimeFormatterBuilder$NumberPrinterParser.format(DateTimeFormatterBuilder.java:2763)
+	at java.base/java.time.format.DateTimeFormatterBuilder$CompositePrinterParser.format(DateTimeFormatterBuilder.java:2402)
+	at java.base/java.time.format.DateTimeFormatter.formatTo(DateTimeFormatter.java:1849)
+	at java.base/java.time.format.DateTimeFormatter.format(DateTimeFormatter.java:1823)
+	at s10_v118.formattingDT.FormattingDateTime.main(FormattingDateTime.java:38)
+
+
+*** Section 10, video #119 log:
+
+2010-02-15
+11:33
+
+2010-02-15
+11:33
+02 15 2010
+
+2010-02-15
+11:33
+02 15 2010
+2010-02-15
+
+2010-02-15
+11:33
+02 15 2010
+2010-02-15
+05 05 2010
+05 05 2010
+
+2010-02-15
+11:33
+02 15 2010
+2010-02-15
+05 05 2010
+10 10 2010
